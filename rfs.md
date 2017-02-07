@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Request For Speakers
+title:  
 subtitle: the nini
 ---
 

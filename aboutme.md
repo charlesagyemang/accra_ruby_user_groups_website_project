@@ -1,16 +1,15 @@
 ---
 layout: page
-title: About Us
+title: 
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Accra RUG is an Accra-based community for anyone interested in the Ruby programming language, both beginners and experts.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+ARUG provides opportunities to:
 
-What else do you need?
+- Discuss Ruby and related topics
+- Socialise with friendly people who are interested in Ruby
+- Find or fill Ruby-related jobs
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+We want ARUG to be a diverse and inclusive community, united by an interest in Ruby, and so we want anyone who is interested in Ruby to be able to participate.

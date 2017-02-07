@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  News
+title:  
 subtitle: News Around The World Of Ruby
 ---
 
