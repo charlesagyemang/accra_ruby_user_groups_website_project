@@ -42,7 +42,7 @@ navbar-links:
 # then specify the following parameter
 # title-img: "/img/logo_one.png"
 
-title-img: "/img/logo_one.png"
+title-img: "https://github.com/charlesagyemang/accra_ruby_user_groups_website_project/blob/gh-pages/img/logo_one.png"
 
 # --- Footer options --- #
 
